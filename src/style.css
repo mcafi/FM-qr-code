@@ -31,7 +31,7 @@ main {
 
 .card {
     flex-basis: 100%;
-    max-width: 340px;
+    max-width: 330px;
     padding: 16px;
     background-color: white;
     border-radius: 20px;
@@ -47,7 +47,7 @@ main {
 }
 
 .card-title {
-    margin: 16px 0;
+    margin: 12px 0;
     padding: 0 16px;
     font-size: 20px;
     font-weight: 700;
@@ -55,7 +55,7 @@ main {
 }
 
 .card-subtitle {
-    margin: 16px 0;
+    margin: 12px 0 20px 0;
     padding: 0 16px;
     font-weight: 400;
     color: var(--grayish-blue);
